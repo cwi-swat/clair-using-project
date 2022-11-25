@@ -1,0 +1,4 @@
+Manifest-Version: 1.0.0
+Project-Name: clair-using-project
+Require-Libraries: |lib://clair|
+Source: src/main/rascal
