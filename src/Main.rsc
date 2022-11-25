@@ -1,6 +1,6 @@
 module Main
 
-import IO;
+import IO; 
 import lang::cpp::AST;
 
 int main() {
