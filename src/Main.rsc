@@ -8,7 +8,7 @@ int main() {
               '  if (n \<= 0) return 1;
               '  return fac(n - 1) * n;
               '}";
-    iprintln(parseC(example));
+    iprintln(parseString(example));
 
     return 0;
 } 
